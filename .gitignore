@@ -27,3 +27,5 @@ reports/
 .DS_Store
 Thumbs.db
 
+
+venv311/
